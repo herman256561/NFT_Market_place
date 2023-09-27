@@ -1,0 +1,99 @@
+.card {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.title {
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 1.8rem;
+}
+
+.navbar-brand:hover {
+    color: white;
+    font-size: 1.8rem;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #F0A2DA;
+}
+
+.active {
+    color: #F0A2DA;
+}
+
+.navbar-nav>li>a {
+    margin-bottom: -10px;
+}
+
+.card {
+    background-color: black;
+}
+
+.card-title {
+    color: white;
+    margin-right: 7rem;
+}
+
+.btn {
+    background-color: #F0A2DA;
+    color: white;
+    height: auto;
+    width: 10rem;
+    margin-bottom: 1rem;
+}
+
+.btn:hover {
+    background-color: #ebc2df;
+}
+
+.card-text {
+    color: white;
+}
+
+#sellBtn {
+    background-color: #F0A2DA;
+    color: white;
+    height: auto;
+    width: 10rem;
+    margin-bottom: 1rem;
+}
+
+#sellBtn:hover {
+    background-color: #ebc2df;
+    color: black;
+}
+
+#submit_buy {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#buy_col {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#buyItem_title {
+    text-align: center;
+}
+
+#submit_transfer {
+    margin-top: 2rem;
+}
